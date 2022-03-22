@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/codeSTACKr/nft-landing-page#readme",
   "dependencies": {
+    "@fontsource/akaya-kanadaka": "^4.5.2",
     "node-fetch": "^2.6.7"
   }
 }
